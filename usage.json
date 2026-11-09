@@ -1,11 +1,1 @@
-{
-  "used_percent": 55,
-  "left_percent": 45,
-  "reset_at": "2026-11-16T21:51:00+09:00",
-  "resets_in_days": 7,
-  "reset_label": "Resets in 7日",
-  "additional_tokens_used_percent": 0,
-  "additional_tokens_label": "1B tokens left",
-  "updated_at": "2026-11-09T23:39:00.957141+09:00",
-  "updated_label": "11/9 23:39"
-}
+{"used_percent": 60, "left_percent": 40, "reset_at": "2026-11-16T21:51:00+09:00", "resets_in_days": 7, "reset_label": "Resets in 7\u65e5", "additional_tokens_used_percent": 0, "additional_tokens_label": "1B tokens left", "updated_at": "2026-11-09T23:55:02.565120+09:00", "updated_label": "11/9 23:55"}
